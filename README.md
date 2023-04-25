@@ -1,0 +1,1 @@
+# Simple Caching Service with Expired Duration Using Singleton Design Pattern
